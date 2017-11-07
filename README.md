@@ -1,2 +1,2 @@
 # Fallout-Equestria
-.esps for the mod
+.esps and compatability patches for the mod
